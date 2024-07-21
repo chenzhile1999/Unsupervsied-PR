@@ -2,9 +2,9 @@
 Here we provide the official implementation of the AAAI-23 paper, unsupervised deep learning for phase retrieval via teacher-student distillation.
 
 ## Information
-- Authors: Yuhui Quan (csyhquan@scut.edu.cn); Zhile Chen (cszhilechen@mail.scut.edu.cn); Tongyao Pang (matpt@nus.edu.sg); Hui Ji (matjh@nus.edu.sg)
+- Authors: Yuhui Quan (csyhquan@scut.edu.cn); Zhile Chen (cs_zhilechen@mail.scut.edu.cn); Tongyao Pang (matpt@nus.edu.sg); Hui Ji (matjh@nus.edu.sg)
 - Institutes: School of Computer Science and Engineering, South China University of Technology; Department of Mathematics, National University of Singapore
-- For any question, please send to **cszhilechen@mail.scut.edu.cn**
+- For any question, please send to **cs_zhilechen@mail.scut.edu.cn**
 - For more information, please refer to: [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25306) [[website]](https://csyhquan.github.io/)
 
 ## Requirements
